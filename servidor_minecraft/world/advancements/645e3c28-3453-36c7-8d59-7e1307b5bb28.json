@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-27 23:30:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-27 22:22:29 +0000"
@@ -44,6 +50,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-27 22:26:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-27 23:30:19 +0000"
     },
     "done": true
   },
@@ -143,6 +155,12 @@
     },
     "done": true
   },
+  "ctmv:spanish/hard/minerals/diamond": {
+    "criteria": {
+      "requirement": "2024-12-27 23:01:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-27 22:28:47 +0000"
@@ -197,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-12-27 23:01:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2024-12-27 22:24:10 +0000"
@@ -239,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-27 23:24:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2024-12-27 22:49:56 +0000"
@@ -260,6 +290,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-27 22:26:21 +0000"
+    },
+    "done": true
+  },
+  "ctmv:inventory_checks/items/cake": {
+    "criteria": {
+      "requirement": "2024-12-27 23:02:37 +0000"
     },
     "done": true
   },
@@ -383,9 +419,21 @@
     },
     "done": true
   },
+  "ctmv:spanish/hard/blue": {
+    "criteria": {
+      "requirement": "2024-12-27 23:21:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-27 22:26:21 +0000"
+    },
+    "done": true
+  },
+  "ctmv:spanish/hard/orange": {
+    "criteria": {
+      "requirement": "2024-12-27 23:23:12 +0000"
     },
     "done": true
   },
@@ -398,6 +446,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2024-12-27 22:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-27 23:30:19 +0000"
     },
     "done": true
   },
@@ -452,6 +506,12 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-27 22:39:00 +0000"
+    },
+    "done": true
+  },
+  "ctmv:inventory_checks/minerals/diamond": {
+    "criteria": {
+      "requirement": "2024-12-27 23:01:47 +0000"
     },
     "done": true
   },
@@ -539,6 +599,12 @@
     },
     "done": true
   },
+  "ctmv:spanish/hard/white": {
+    "criteria": {
+      "requirement": "2024-12-27 23:02:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2024-12-27 22:20:55 +0000"
@@ -596,7 +662,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-27 22:34:24 +0000",
-      "minecraft:zombie": "2024-12-27 22:34:41 +0000"
+      "minecraft:zombie": "2024-12-27 22:34:41 +0000",
+      "minecraft:creeper": "2024-12-27 23:18:45 +0000"
     },
     "done": false
   },
@@ -774,9 +841,21 @@
     },
     "done": true
   },
+  "ctmv:inventory_checks/items/broken_anvil": {
+    "criteria": {
+      "requirement": "2024-12-27 23:23:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_lime_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-27 22:20:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-27 23:30:19 +0000"
     },
     "done": true
   },
@@ -861,6 +940,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-27 22:34:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-27 23:18:51 +0000"
     },
     "done": true
   },
@@ -1044,6 +1129,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-27 23:30:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-27 22:39:00 +0000"
@@ -1137,6 +1228,12 @@
   "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-27 22:50:14 +0000"
+    },
+    "done": true
+  },
+  "ctmv:inventory_checks/items/bee_nest": {
+    "criteria": {
+      "requirement": "2024-12-27 23:21:57 +0000"
     },
     "done": true
   },
@@ -1260,6 +1357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-27 23:18:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_magenta_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-27 22:20:52 +0000"
@@ -1353,6 +1456,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2024-12-27 22:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-27 23:30:19 +0000"
     },
     "done": true
   },
@@ -1614,6 +1723,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2024-12-27 23:34:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-27 22:28:47 +0000"
@@ -1650,6 +1765,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-12-27 22:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-27 23:30:19 +0000"
     },
     "done": true
   },
@@ -1733,7 +1854,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_mutton": "2024-12-27 22:37:46 +0000"
+      "cooked_chicken": "2024-12-27 22:56:11 +0000",
+      "cooked_mutton": "2024-12-27 22:37:46 +0000",
+      "cooked_salmon": "2024-12-27 23:23:58 +0000"
     },
     "done": false
   },
@@ -1851,6 +1974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-27 23:30:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 22:28:39 +0000"
@@ -1890,6 +2019,18 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-27 22:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-27 23:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-27 23:24:31 +0000"
     },
     "done": true
   },
