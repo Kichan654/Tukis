@@ -235,7 +235,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2024-12-27 23:37:51 +0000"
+      "minecraft:nether_wastes": "2024-12-27 23:37:51 +0000",
+      "minecraft:soul_sand_valley": "2024-12-27 23:45:25 +0000"
     },
     "done": false
   },
@@ -434,6 +435,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-27 22:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-27 23:49:22 +0000"
     },
     "done": true
   },
@@ -768,6 +775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-27 23:42:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-27 22:20:31 +0000"
@@ -801,6 +814,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-27 22:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-27 23:42:02 +0000"
     },
     "done": true
   },
@@ -906,6 +925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-27 23:42:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_candle": {
     "criteria": {
       "has_gray_dye": "2024-12-27 22:20:34 +0000"
@@ -924,6 +949,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-27 23:42:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_gray_dye": "2024-12-27 22:20:34 +0000"
@@ -933,6 +964,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 22:30:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-27 23:42:02 +0000"
     },
     "done": true
   },
@@ -996,6 +1033,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-27 23:42:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2024-12-27 23:36:26 +0000"
@@ -1053,6 +1096,12 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-12-27 23:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-27 23:49:22 +0000"
     },
     "done": true
   },
@@ -1233,6 +1282,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 22:30:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-27 23:49:22 +0000"
     },
     "done": true
   },
@@ -1600,6 +1655,7 @@
       "mutton": "2024-12-27 23:21:04 +0000",
       "chicken": "2024-12-27 23:20:49 +0000",
       "bread": "2024-12-27 22:29:51 +0000",
+      "salmon": "2024-12-27 23:49:26 +0000",
       "cooked_beef": "2024-12-27 23:30:04 +0000",
       "beef": "2024-12-27 22:28:58 +0000",
       "golden_carrot": "2024-12-27 22:58:33 +0000"

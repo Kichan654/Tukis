@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-27 23:47:52 +0000"
+    },
+    "done": true
+  },
   "ctmv:spanish/hard/root": {
     "criteria": {
       "requirement": "2024-12-27 22:21:25 +0000"
@@ -500,6 +506,12 @@
   "minecraft:recipes/building_blocks/dye_pink_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-27 22:21:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-27 23:43:14 +0000"
     },
     "done": true
   },
@@ -854,6 +866,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-27 23:43:14 +0000"
+    },
+    "done": true
+  },
   "ctmv:inventory_checks/minerals/iron": {
     "criteria": {
       "requirement": "2024-12-27 22:34:00 +0000"
@@ -893,6 +911,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_gray_dye": "2024-12-27 22:21:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-27 23:43:14 +0000"
     },
     "done": true
   },
@@ -1184,6 +1208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-27 23:43:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/copper_door": {
     "criteria": {
       "has_copper_ingot": "2024-12-27 22:27:02 +0000"
@@ -1349,6 +1379,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-27 22:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-27 23:43:14 +0000"
     },
     "done": true
   },
@@ -1627,6 +1663,12 @@
   "minecraft:recipes/building_blocks/dye_gray_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-27 22:21:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-27 23:43:14 +0000"
     },
     "done": true
   },
