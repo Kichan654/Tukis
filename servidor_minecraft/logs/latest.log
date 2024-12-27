@@ -1,0 +1,115 @@
+[21:44:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:44:49] [ServerMain/INFO]: Found new data pack file/CTM Vanilla V4.71 (1.21.4).zip, loading it automatically
+[21:44:51] [ServerMain/INFO]: Loaded 1290 recipes
+[21:44:51] [ServerMain/ERROR]: Failed to load function ctmv:game/new_coordinates/boats
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:oak_boat' of type 'minecraft:entity_type' at position 96: ...n oak_boat<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:oak_boat' of type 'minecraft:entity_type' at position 96: ...n oak_boat<--[HERE]
+	at ig.a(SourceFile:80) ~[server-1.21.jar:?]
+	at alf.a(SourceFile:89) ~[server-1.21.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:44:51] [ServerMain/ERROR]: Failed to load function ctmv:game/new_coordinates/boat_respawn
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 3: Invalid or unknown entity type 'minecraft:oak_boat' at position 30: ...y @e[type=<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3: Invalid or unknown entity type 'minecraft:oak_boat' at position 30: ...y @e[type=<--[HERE]
+	at ig.a(SourceFile:80) ~[server-1.21.jar:?]
+	at alf.a(SourceFile:89) ~[server-1.21.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:44:51] [ServerMain/ERROR]: Failed to load function ctmv:game/new_coordinates/armor_stand_loop
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 41: Can't find element 'minecraft:jump_strength' of type 'minecraft:attribute' at position 74: ...p_strength<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 41: Can't find element 'minecraft:jump_strength' of type 'minecraft:attribute' at position 74: ...p_strength<--[HERE]
+	at ig.a(SourceFile:80) ~[server-1.21.jar:?]
+	at alf.a(SourceFile:89) ~[server-1.21.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:44:51] [ServerMain/ERROR]: Failed to load function ctmv:game/start_sequence/sequence
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 48: Can't find element 'minecraft:jump_strength' of type 'minecraft:attribute' at position 83: ...p_strength<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 48: Can't find element 'minecraft:jump_strength' of type 'minecraft:attribute' at position 83: ...p_strength<--[HERE]
+	at ig.a(SourceFile:80) ~[server-1.21.jar:?]
+	at alf.a(SourceFile:89) ~[server-1.21.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:44:51] [ServerMain/ERROR]: Failed to load function ctmv:game/start
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 30: Can't find element 'minecraft:jump_strength' of type 'minecraft:attribute' at position 44: ...p_strength<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 30: Can't find element 'minecraft:jump_strength' of type 'minecraft:attribute' at position 44: ...p_strength<--[HERE]
+	at ig.a(SourceFile:80) ~[server-1.21.jar:?]
+	at alf.a(SourceFile:89) ~[server-1.21.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:44:51] [ServerMain/INFO]: Loaded 1676 advancements
+[21:44:52] [Server thread/INFO]: Starting minecraft server version 1.21
+[21:44:52] [Server thread/INFO]: Loading properties
+[21:44:52] [Server thread/INFO]: Default game type: SURVIVAL
+[21:44:52] [Server thread/INFO]: Generating keypair
+[21:44:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:44:52] [Server thread/INFO]: Using epoll channel type
+[21:44:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:44:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:44:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:44:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:44:52] [Server thread/INFO]: Preparing level "world"
+[21:44:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:44:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:53] [Server thread/INFO]: Time elapsed: 556 ms
+[21:44:53] [Server thread/INFO]: Done (0.825s)! For help, type "help"
+[21:45:05] [Server thread/INFO]: Kichan654[/100.105.19.14:60681] logged in with entity id 23 at (-14.5, 69.0, 96.5)
+[21:45:05] [Server thread/INFO]: Kichan654 joined the game
+[21:45:24] [Server thread/WARN]: Kichan654 moved wrongly!
+[21:45:38] [Server thread/INFO]: Made Kichan654 a server operator
+[21:47:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:47:00] [Server thread/INFO]: .<--[HERE]
+[21:48:38] [Server thread/INFO]: Radstoksinho[/100.70.142.50:53309] logged in with entity id 312 at (-14.5, 69.0, 86.5)
+[21:48:38] [Server thread/INFO]: Radstoksinho joined the game
+[21:49:50] [Server thread/INFO]: [Radstoksinho: Triggered [changeConfig] (set value to 2)]
+[21:51:42] [Server thread/INFO]: Radstoksinho lost connection: Disconnected
+[21:51:42] [Server thread/INFO]: Radstoksinho left the game
+[21:52:28] [Server thread/INFO]: [Kichan654: Triggered [changeConfig] (set value to 1)]
+[21:52:53] [Server thread/INFO]: [Kichan654: Triggered [changeConfig] (set value to 2)]
+[21:53:12] [Server thread/INFO]: adriano244[/100.100.74.95:55021] logged in with entity id 405 at (-17.5, 70.0, 97.5)
+[21:53:12] [Server thread/INFO]: adriano244 joined the game
+[21:53:16] [Server thread/INFO]: [Not Secure] <Kichan654> xxdxd
