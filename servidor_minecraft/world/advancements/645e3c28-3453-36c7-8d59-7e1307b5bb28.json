@@ -443,6 +443,12 @@
     },
     "done": true
   },
+  "ctmv:spanish/hard/light_blue": {
+    "criteria": {
+      "requirement": "2024-12-27 23:55:17 +0000"
+    },
+    "done": true
+  },
   "ctmv:spanish/hard/orange": {
     "criteria": {
       "requirement": "2024-12-27 23:23:12 +0000"
@@ -641,6 +647,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-27 23:58:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-27 22:22:52 +0000"
@@ -724,6 +736,12 @@
   "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-27 22:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-28 00:01:37 +0000"
     },
     "done": true
   },
@@ -838,6 +856,12 @@
   "minecraft:recipes/building_blocks/dye_pink_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-27 22:20:54 +0000"
+    },
+    "done": true
+  },
+  "ctmv:inventory_checks/items/observer": {
+    "criteria": {
+      "requirement": "2024-12-27 23:55:17 +0000"
     },
     "done": true
   },
@@ -1087,6 +1111,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-27 23:53:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_gray_dye": "2024-12-27 22:20:54 +0000"
@@ -1222,6 +1252,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-27 22:26:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-28 00:01:37 +0000"
     },
     "done": true
   },
@@ -1482,6 +1518,12 @@
       "has_planks": "2024-12-27 22:38:10 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2024-12-27 23:53:21 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/dye_magenta_wool": {
     "criteria": {
@@ -1801,6 +1843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-28 00:01:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-27 22:24:10 +0000"
@@ -1839,8 +1887,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2024-12-28 00:05:26 +0000",
       "minecraft:forest": "2024-12-27 22:22:03 +0000",
       "minecraft:river": "2024-12-27 22:34:50 +0000",
+      "minecraft:meadow": "2024-12-28 00:07:42 +0000",
       "minecraft:dripstone_caves": "2024-12-27 22:38:39 +0000",
       "minecraft:plains": "2024-12-27 22:20:52 +0000"
     },
@@ -1940,6 +1990,7 @@
     "criteria": {
       "cooked_chicken": "2024-12-27 22:56:11 +0000",
       "cooked_mutton": "2024-12-27 22:37:46 +0000",
+      "cooked_beef": "2024-12-28 00:05:32 +0000",
       "cooked_salmon": "2024-12-27 23:23:58 +0000"
     },
     "done": false

@@ -5,6 +5,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-27 23:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 23:55:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-27 22:22:06 +0000"
@@ -29,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-27 23:57:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-27 23:32:33 +0000"
@@ -50,6 +68,12 @@
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2024-12-27 23:14:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 23:55:17 +0000"
     },
     "done": true
   },
@@ -119,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-27 23:55:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 22:35:10 +0000"
@@ -169,6 +199,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-27 23:51:32 +0000",
+      "minecraft:nether_wastes": "2024-12-28 00:01:50 +0000",
       "minecraft:soul_sand_valley": "2024-12-27 23:37:28 +0000"
     },
     "done": false
@@ -371,6 +403,12 @@
     },
     "done": true
   },
+  "ctmv:spanish/hard/light_blue": {
+    "criteria": {
+      "requirement": "2024-12-27 23:55:17 +0000"
+    },
+    "done": true
+  },
   "ctmv:spanish/hard/orange": {
     "criteria": {
       "requirement": "2024-12-27 23:23:12 +0000"
@@ -389,9 +427,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-12-27 23:55:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-27 23:57:33 +0000"
     },
     "done": true
   },
@@ -452,6 +502,12 @@
   "ctmv:inventory_checks/minerals/diamond": {
     "criteria": {
       "requirement": "2024-12-27 23:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 23:55:17 +0000"
     },
     "done": true
   },
@@ -584,15 +640,24 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-27 22:33:12 +0000",
+      "minecraft:piglin": "2024-12-27 23:58:01 +0000",
+      "minecraft:piglin_brute": "2024-12-27 23:57:21 +0000",
       "minecraft:spider": "2024-12-27 22:38:25 +0000",
       "minecraft:zombie": "2024-12-27 22:38:59 +0000",
-      "minecraft:drowned": "2024-12-27 23:07:26 +0000"
+      "minecraft:drowned": "2024-12-27 23:07:26 +0000",
+      "minecraft:hoglin": "2024-12-27 23:51:20 +0000"
     },
     "done": false
   },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-27 22:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-27 23:55:16 +0000"
     },
     "done": true
   },
@@ -605,6 +670,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-27 22:22:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-27 23:55:16 +0000"
     },
     "done": true
   },
@@ -716,6 +787,12 @@
     },
     "done": true
   },
+  "ctmv:inventory_checks/items/observer": {
+    "criteria": {
+      "requirement": "2024-12-27 23:55:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_candle": {
     "criteria": {
       "has_magenta_dye": "2024-12-27 22:20:40 +0000"
@@ -758,9 +835,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-27 23:55:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-12-27 22:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-27 23:57:33 +0000"
     },
     "done": true
   },
@@ -824,6 +913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 23:55:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-27 22:25:11 +0000"
@@ -851,6 +946,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-27 22:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-27 23:55:16 +0000"
     },
     "done": true
   },
@@ -887,6 +988,12 @@
   "ctmv:spanish/hard/minerals/coal": {
     "criteria": {
       "requirement": "2024-12-27 22:25:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-27 23:55:16 +0000"
     },
     "done": true
   },
@@ -965,6 +1072,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2024-12-27 22:20:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-28 00:00:21 +0000"
     },
     "done": true
   },
@@ -1052,6 +1165,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-12-27 23:55:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-27 23:55:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2024-12-27 22:54:37 +0000"
@@ -1067,6 +1192,12 @@
   "ctmv:inventory_checks/items/bee_nest": {
     "criteria": {
       "requirement": "2024-12-27 23:21:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-27 23:55:16 +0000"
     },
     "done": true
   },
@@ -1238,6 +1369,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-12-27 23:55:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-27 23:57:33 +0000"
+    },
+    "done": true
+  },
   "ctmv:spanish/hard/yellow": {
     "criteria": {
       "requirement": "2024-12-27 22:44:44 +0000"
@@ -1262,6 +1405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-12-27 23:55:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-27 22:20:40 +0000"
@@ -1271,6 +1420,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-12-27 22:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2024-12-27 23:57:30 +0000"
     },
     "done": true
   },
@@ -1289,6 +1444,18 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2024-12-27 22:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-27 23:55:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 23:55:17 +0000"
     },
     "done": true
   },
@@ -1334,6 +1501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 23:55:17 +0000"
+    },
+    "done": true
+  },
   "ctmv:inventory_checks/minerals/lapis": {
     "criteria": {
       "requirement": "2024-12-27 22:44:24 +0000"
@@ -1349,6 +1522,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-27 22:23:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-27 23:55:16 +0000"
     },
     "done": true
   },
@@ -1388,6 +1567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-28 00:00:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-27 22:38:27 +0000"
@@ -1415,6 +1600,18 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-27 22:33:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-27 23:55:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-27 23:55:17 +0000"
     },
     "done": true
   },
@@ -1520,6 +1717,18 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-27 23:54:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-27 23:57:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-27 22:23:08 +0000"
@@ -1592,7 +1801,8 @@
       "apple": "2024-12-27 23:39:27 +0000",
       "bread": "2024-12-27 22:27:12 +0000",
       "rotten_flesh": "2024-12-27 22:39:14 +0000",
-      "cooked_mutton": "2024-12-27 22:33:45 +0000"
+      "cooked_mutton": "2024-12-27 22:33:45 +0000",
+      "cooked_beef": "2024-12-27 23:53:05 +0000"
     },
     "done": false
   },
@@ -1674,6 +1884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-28 00:00:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-27 22:21:41 +0000"
@@ -1719,6 +1935,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2024-12-27 22:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-27 23:55:16 +0000"
     },
     "done": true
   },
